@@ -1,5 +1,5 @@
 # getahead_google
-Repo of programs for the Google Get Ahead 2021
+Repo of programs for the Google Get Ahead 2021.
 
 # Unknown alphabet
 relevant for students that are in their pre final/final year of Bachelor’s or currently pursuing a Masters/PhD degree.
