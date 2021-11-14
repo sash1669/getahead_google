@@ -1,7 +1,7 @@
 # getahead_google
 Repo of programs for the Google Get Ahead 2021
 
-#Unknown alphabet
+# Unknown alphabet
 relevant for students that are in their pre final/final year of Bachelor’s or currently pursuing a Masters/PhD degree.
 
 Given a dictionary (a list of words in lexicographic order) of all words in a fictional language, find the alphabet (an ordered list of characters) of that language.
